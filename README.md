@@ -1,10 +1,10 @@
 # SGSI-USPS-proyecto-4geeks
 
-# 📑 Proyecto Final – SGSI para USPS
+#  Proyecto Final – SGSI para USPS
 
-🎓 4Geeks Academy – Ciberseguridad  
-👤 Autor: Luciano Matias Zuccardi  
-📅 Febrero 2025  
+ 4Geeks Academy – Ciberseguridad  
+ Autor: Luciano Matias Zuccardi  
+ Febrero 2025  
 
 ## Descripción
 Este proyecto consiste en el desarrollo de un **Sistema de Gestión de Seguridad de la Información (SGSI)** 
@@ -41,9 +41,9 @@ reducir riesgos y establecer políticas y procedimientos de seguridad aplicables
 
 ## Evaluaciones
 
-- 🔴 Riesgo crítico: bases de datos de clientes y software de seguimiento.  
-- 🟠 Amenazas principales: ransomware, phishing, DoS, acceso no autorizado.  
-- 🟢 Controles aplicados: firewall avanzado, IDPS, 2FA, backup, auditorías a terceros.  
+-  Riesgo crítico: bases de datos de clientes y software de seguimiento.  
+-  Amenazas principales: ransomware, phishing, DoS, acceso no autorizado.  
+-  Controles aplicados: firewall avanzado, IDPS, 2FA, backup, auditorías a terceros.  
 
 ---
 
