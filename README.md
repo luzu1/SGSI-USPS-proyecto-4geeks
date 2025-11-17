@@ -21,11 +21,11 @@ reducir riesgos y establecer políticas y procedimientos de seguridad aplicables
 
 ## Contenido
 
-1. Declaración de Alcance del SGSI  
-2. Resultados de la Evaluación de Riesgos  
-3. Controles de Seguridad para los Riesgos  
-4. Documento de Políticas y Procedimientos de Seguridad  
-5. Resumen Ejecutivo y Recomendaciones  
+1. [Declaración de Alcance del SGSI](https://github.com/luzu1/SGSI-USPS-proyecto-4geeks/blob/main/Desarrollo%20de%20SGSI%20para%20USPS/1.Declaraci%C3%B3n%20de%20Alcance%20del%20SGSI%20para%20USPS.pdf)
+2. [Resultados de la Evaluación de Riesgos](https://github.com/luzu1/SGSI-USPS-proyecto-4geeks/blob/main/Desarrollo%20de%20SGSI%20para%20USPS/2.Resultados%20de%20la%20evaluacion%20de%20riesgos%20para%20USPS.pdf)  
+3. [Controles de Seguridad para los Riesgos](https://github.com/luzu1/SGSI-USPS-proyecto-4geeks/blob/main/Desarrollo%20de%20SGSI%20para%20USPS/3.Control%20de%20seguridad%20para%20riesgos%20en%20USPS.pdf) 
+4. [Documento de Políticas y Procedimientos de Seguridad](https://github.com/luzu1/SGSI-USPS-proyecto-4geeks/blob/main/Desarrollo%20de%20SGSI%20para%20USPS/4.Documento%20de%20politicas%20y%20procedimientos%20de%20Seguridad%20para%20USPS.pdf)  
+5. [Resumen Ejecutivo y Recomendaciones](https://github.com/luzu1/SGSI-USPS-proyecto-4geeks/blob/main/Desarrollo%20de%20SGSI%20para%20USPS/5.Resumen%20del%20SGSI%20para%20USPS.pdf)  
 
 ---
 
